@@ -1,0 +1,36 @@
+.barra{
+    display: flex;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.233);
+}
+.image{
+    height: 30px;
+    width: 30px;
+}
+.shows{
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+.movies{
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+.kids{
+    position: relative;
+    left: 30px;
+    top: 5px;
+}
+
+#person{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    right: 20px;
+}
