@@ -14,21 +14,39 @@
 }
 .home{
     font-family:sans-serif;
+    font-size: medium;
     position: relative;
     left: 10px;
-    top: 5px;
+    top: 17px;
+}
+.shows{
+    font-family:sans-serif;
+    font-size: medium;
+    position: relative;
+    left: 20px;
+    top: 17px;
 }
 .movies{
     font-family:sans-serif;
-    position: relative;
-    left: 20px;
-    top: 5px;
-}
-.kids{
-    font-family:sans-serif;
+    font-size: medium;
     position: relative;
     left: 30px;
-    top: 5px;
+    top: 17px;
+}
+.new{
+    font-family:sans-serif;
+    font-size: medium;
+    position: relative;
+    left: 40px;
+    top: 17px;
+}
+
+.list{
+    font-family:sans-serif;
+    font-size: medium;
+    position: relative;
+    left: 40px;
+    top: 17px;
 }
 
 #person{
