@@ -9,20 +9,23 @@
     background-color: rgba(255, 255, 255, 0.233);
 }
 .image{
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 90px;
 }
-.shows{
+.home{
+    font-family:sans-serif;
     position: relative;
     left: 10px;
     top: 5px;
 }
 .movies{
+    font-family:sans-serif;
     position: relative;
     left: 20px;
     top: 5px;
 }
 .kids{
+    font-family:sans-serif;
     position: relative;
     left: 30px;
     top: 5px;
