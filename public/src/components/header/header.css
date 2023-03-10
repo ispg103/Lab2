@@ -6,7 +6,7 @@
     top: 0;
     color: white;
     font-size: 20px;
-    background-color: rgba(255, 255, 255, 0.233);
+    background-color: rgba(59, 59, 59, 0.478);
 }
 .image{
     height: 50px;
@@ -47,6 +47,27 @@
     position: relative;
     left: 50px;
     top: 17px;
+}
+
+.lupa{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 15px;
+    right: 125px;
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+}
+.noti{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 15px;
+    right: 83px;
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
 }
 
 .person{

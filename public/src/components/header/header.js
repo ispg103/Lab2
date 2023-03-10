@@ -1,7 +1,7 @@
 class Header extends HTMLElement {
 
     static get observedAttributes() {
-        return ["home", "shows", "movies", ];
+        return [];
     }
 
     constructor() {
@@ -28,7 +28,10 @@ class Header extends HTMLElement {
         <div class="movies"> Movies </div>
         <div class="new"> New & Popular </div>
         <div class="list"> My List </div>
+        <img src="./src/img/lupa.png" class="lupa">
+        <img src="./src/img/noti.png" class="noti">
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/64623a33850498.56ba69ac2a6f7.png" class="person">
+
     </div>
         `;
     }

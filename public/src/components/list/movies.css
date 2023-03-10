@@ -1,0 +1,168 @@
+.fila{
+    width:90%;
+    height:450px;
+    color: #fff;
+    padding:20px;
+}
+.scroll_horizontal {
+	width: 98.5%;
+    overflow-x:scroll;
+    overflow-y:hidden;
+	background-color: #292828;
+    color:#fff;
+	padding: 8px;
+}
+.ancho{
+    width:2400px;
+    height:400px;
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.pelicula{
+    float:left;
+    display:inline;
+    margin-right: 40px;
+}
+
+.card{
+    width:200px;
+    height:300px;
+}
+.card{
+    border: 1px solid#000000c6;
+    border-radius: 7px;
+    border-radius: 7px;
+    padding: 10px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+}
+#card1{
+    background-image:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ghibli-vecino-totoro-miyazaki-netflix-1579597040.jpg?crop=0.563xw:1.00xh;0.220xw,0&resize=640:*);
+    background-size: cover;
+}
+#card2{
+    background-image:url(https://es.web.img2.acsta.net/pictures/21/01/07/05/11/2649787.jpg);
+    background-size: cover;
+
+}
+#card3 {
+    background-image:url(https://dam.smashmexico.com.mx/wp-content/uploads/2019/12/Poster2.jpg);
+background-size: cover;
+}
+
+#card4{background-image:url(https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg);
+    background-size: cover;
+}
+
+
+#card5{background-image: url(https://i0.wp.com/pstutoriales.com/wp-content/uploads/2019/10/elbromas.jpg);
+    background-size: cover;}
+
+#card6{background-image: url(https://lumiere-a.akamaihd.net/v1/images/au_poster_movies_20cs_avatar2_wayofwater_teaser_cc6f7f91.jpeg?region=0,0,540,800&width=480);
+    background-size: cover;}
+
+#card7{background-image: url(https://cdnb.artstation.com/p/assets/images/images/036/942/805/large/ismael-fofana-death-note-anime-poster-design.jpg?1619038298);
+    background-size: cover;}
+
+#card8{background-image: url(https://i.pinimg.com/originals/2d/82/92/2d82920efe855b820a2cb4c14d44ce2e.jpg);
+background-size: cover;
+}
+
+#card88{
+    background-image: url(https://es.web.img3.acsta.net/pictures/18/01/03/17/54/2371670.jpg);
+    background-size: cover;
+}
+
+
+
+#card9{background-image: url(https://es.web.img2.acsta.net/pictures/21/07/15/15/29/0775906.jpg);
+    background-size: cover;
+}
+#card10{
+    background-image: url(https://images.justwatch.com/poster/216237023/s718/hajime-no-ippo.%7Bformat%7D);
+    background-size: cover;
+}
+#card11{background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2017/02/lucifer-serie-tv-cartel.jpg?itok=Zp8PZLII);
+background-size: cover;
+}
+
+#card12{
+    background-image: url(https://4.bp.blogspot.com/-DsygL3FY0pc/WlVIt23BAyI/AAAAAAAAKq8/dr_v3EN6wsMWo-V-gq8TVScZgolqvWQnwCK4BGAYYCw/s1600/one-more-time.jpg);
+background-size: cover;
+}
+
+#card13{
+    background-image: url(https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2022/06/Berserk-el-manga-regresara-el-24-de-junio-de-la-mano-de-Studio-Gaga-tomo-41.jpg?resize=504%2C741&ssl=1);
+    background-size: cover;
+}
+#card14{
+    background-image: url(https://es.web.img3.acsta.net/pictures/18/12/10/14/01/0178829.jpg);
+    background-size: cover;
+}
+#card15{
+    background-image: url(https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg);
+    background-size: cover;
+}
+#card16{
+    background-image: url(https://static.cinepolis.com/resources/mx/movies/posters/414x603/41279-249462-20221226031358.jpg);
+    background-size: cover;
+}
+#card17{
+    background-image: url(https://1.bp.blogspot.com/-UcBBGRBh7NA/WlVIzzxqCJI/AAAAAAAAKrE/ybpbvJkRUsg3lxk_EG2roeo8GCFBP4mcACK4BGAYYCw/s1600/AB4yqow.jpg);
+    background-size: cover;
+}
+#card18{
+    background-image: url(https://static.wikia.nocookie.net/doblaje/images/a/ab/Las-ventajas-de-ser-invisible-poster.jpg/revision/latest?cb=20120730174530&path-prefix=es);
+    background-size: cover;
+}
+#card19{
+    background-image: url(https://pics.filmaffinity.com/one_day-871097561-mmed.jpg);
+    background-size: cover;
+}
+
+
+
+.estrellas{
+    color:#fff;
+    display: flex;
+    align-items:bottom;
+    text-align: end;
+}
+.estrellas img{
+    width:20px;
+}
+.derecha{
+    float:right;
+}
+.botones{
+    width:30px;
+}
+#texto_cabecera{
+    margin-top: 300px;
+   padding-left:20px;
+}
+
+.titulo{
+    float: left;
+    display: block;
+    
+}
+.play{
+    float: left;
+    display: inline;
+    width: 50%;
+    height: 60px
+}
+.textogrande{
+    float: left;
+    display: inline;
+}
+.tamano{
+    width: 150px;
+    height: 50px;
+    opacity: 0.7;
+    font-size: 1.5em;
+    margin-right: 10px;
+}

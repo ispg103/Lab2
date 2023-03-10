@@ -1,4 +1,4 @@
-import * as components from "./components/header/header.js";
+import * as components from "./components/index.js";
 
 class AppContainer extends HTMLElement {
   constructor() {
@@ -13,6 +13,8 @@ class AppContainer extends HTMLElement {
   render() {
     this.shadowRoot.innerHTML = `
     <my-header></my-header>
+    <my-banner></my-banner>
+    <my-movies></my-movies>
     `;
   }
 }

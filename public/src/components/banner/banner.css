@@ -1,0 +1,60 @@
+.big{
+    height: 100%;
+    width: 100%;
+}
+
+.title{
+    position: absolute;
+    bottom: 200px;
+    left: 40px;
+    color:white;
+    font-family:'Gill Sans MT';
+    font-size:xx-large;
+}
+
+.rate{
+    position: absolute;
+    bottom: 205px;
+    left: 220px;
+    color:white;
+    font-family:'Segoe UI';
+    font-size: medium;
+}
+
+.text{
+    position: absolute;
+    bottom: 160px;
+    left: 40px;
+    color: white;
+    font-size: medium;
+    font-family: 'Segoe UI';
+}
+
+.image{
+    height: 30px;
+    width: 30px;
+}
+
+#play{
+    position: absolute;
+    bottom: 115px;
+    left: 40px;
+}
+
+#save{
+    position: absolute;
+    bottom: 115px;
+    left: 80px;
+}
+
+.age{
+    position: absolute;
+    bottom: 150px;
+    left: 1450px;
+    color: white;
+    font-size: large;
+    font-family: 'Segoe UI';
+    background-color: rgba(68, 68, 68, 0.749);
+    width: 65px;
+    height: 25px;
+}
